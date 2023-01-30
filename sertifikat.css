@@ -1,0 +1,37 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', sans-serif;
+
+}
+
+.texture{
+    background-image: url('texture.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+
+.title {
+    color: #ca7cb3;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.container {
+    width: 500px;
+    border: 1px solid #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.5);  
+    padding: 25px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #FFFFFF;
+    border-radius: 50%;
+}
